@@ -17,7 +17,7 @@
  <li><a href = "https://pmg.csail.mit.edu/papers/osdi99.pdf">Byzantine Fault Tolerance</a></li>
 </ul>
 
-## Greyscale Introductions
+## Grayscale Introductions
 
 <ul>
  <li><a href = "https://grayscale.com/wp-content/uploads/2021/08/grayscale-building-blocks-bitcoin-august-2021.pdf"> An Introduction to Bitcoin</a></li>
