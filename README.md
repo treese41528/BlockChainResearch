@@ -32,7 +32,8 @@
 Challenges and Benefits of Financial Innovation in the United States </a></li>
  <li><a href = "https://assets.ctfassets.net/c5bd0wqjc7v0/7FhSemtQvq4P4yS7sJCKMj/a98939d651d7ee24a56a897e2d37ef30/coinbase-digital-asset-policy-proposal.pdf"> Coinbase Policy Proposal </a></li>
   <li><a href = "https://www.bnymellon.com/content/dam/bnymellon/documents/pdf/insights/digital-assets-from-fringe-to-future.pdf"> BNY Melon: Digital Assets from Fringe to Future</a></li>
-  <li><a href = https://www.imf.org/-/media/Files/Publications/FTN063/2019/English/FTNEA2019003.ashx"> Regulation of Crypto Assets</a></li>
+  <li><a href = "https://www.imf.org/-/media/Files/Publications/FTN063/2019/English/FTNEA2019003.ashx"> IMF: Regulation of Crypto Assets</a></li>
+  <li><a href = "https://www.imf.org/-/media/Files/Publications/GFSR/2021/October/English/ch2.ashx"> IMF: Crypto Echosystem</a></li>
 </ul>
   
 
