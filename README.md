@@ -1,5 +1,5 @@
 # BlockchainResearch (Links to interesting articles etc...)
-
+<a href = "https://coin360.com/exchange/">Market Share Map</a>
 
 ## Blockchain Structure
 
@@ -12,7 +12,10 @@
 
 
 ## Blockchain Technology
-
+<ul>
+ <li><a href = "https://lamport.azurewebsites.net/pubs/byz.pdf">Byzantine Generals Problem</a></li>
+ <li><a href = "https://pmg.csail.mit.edu/papers/osdi99.pdf">Byzantine Fault Tolerance</a></li>
+</ul>
 
 ## Greyscale Introductions
 
