@@ -43,7 +43,7 @@
 
 
 <ul>
- <li><a href = "<iframe width="560" height="315" src="https://www.youtube.com/embed/pSTNhBlfV_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>">Brian Brooks Explains Web3.0 to Congress</a>
+ <li><a href = "https://youtu.be/pSTNhBlfV_s">Brian Brooks Explains Web3.0 to Congress</a>
  <li><a href = "https://advisor.morganstanley.com/the-elm-street-group/documents/field/e/el/elm-street-group/The%20Case%20for%20Cryptocurrency.pdf"> Morgan Stanley-Report </a></li>
  <li><a href = "https://www.uschamber.com/assets/documents/ccmc_digitalassets2021_v3.pdf"> Center for Capital Markets Competiveness-Report </a></li>
  <li><a href = "https://www.goldmansachs.com/insights/pages/crypto-a-new-asset-class-f/report.pdf"> Goldman Sachs-Report </a></li>
