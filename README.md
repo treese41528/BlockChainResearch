@@ -1,13 +1,18 @@
 # BlockchainResearch (Links to interesting articles etc...)
 <a href = "https://coin360.com/exchange/">Market Share Map</a>
 
+## Meta Verse
+<ul>
+ <li><a href = https://www.blender.org/">Blender</a></li>
+  <li><a href = "https://www.unrealengine.com/en-US/metahuman-creator">Meta Humans</a></li>
+  <li><a href = "https://zivadynamics.com/">Real Time Faces</a></li>
+</ul>
 ## Blockchain Structure
 
 
 
 
 ## Blockchain UseCases
-
 
 
 
