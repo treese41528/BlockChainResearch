@@ -10,6 +10,7 @@
   <li><a href = "https://developer.nvidia.com/nvidia-omniverse-platform">Omniverse</a></li>
   <li><a href = "https://about.fb.com/news/2021/08/introducing-horizon-workrooms-remote-collaboration-reimagined/">Facebook Meta</a></li>
   <li><a href = "https://www.youtube.com/watch?v=0OK80eljWrs">Keanu Reeves and Carrie-Anne Moss on making The Matrix Awakens with Epic Games</a></li>
+  <li><a href = "https://www.youtube.com/watch?v=_PYKp06wlGY">Blockchains of ReadyPlayerOne</a></li>
 </ul>
 
 
