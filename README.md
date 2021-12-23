@@ -18,6 +18,7 @@
 ## Blockchain UseCases
 <ul>
   <li><a href = "https://www.hope.com/">BTC Maximalist (Store of Value)</a></li>
+  <li><a href = "https://lokinet.org/">Loki Net (Privacy Browsing)</a></li>
  </ul>
 
 
