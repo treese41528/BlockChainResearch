@@ -11,13 +11,12 @@
   <li><a href = "https://www.youtube.com/watch?v=0OK80eljWrs">Keanu Reeves and Carrie-Anne Moss on making The Matrix Awakens with Epic Games</a></li>
 </ul>
 
-## Blockchain Structure
-
-
 
 
 ## Blockchain UseCases
-
+<ul>
+  <li><a href = "https://www.hope.com/">BTC Maximalist (Store of Value)</a></li>
+ </ul>
 
 
 ## Blockchain Technology
@@ -47,10 +46,11 @@
  <li><a href = "https://grayscale.com/wp-content/uploads/2021/10/grayscale-building-blocks-horizen-october-2021.pdf.pdf"> An Introduction to Horizen</a></li>
 </ul>
 
-
+## Blockchain Security
+  
+  
 ## Blockchain Policy and Actions
-
-
+  
 <ul>
  <li><a href = "https://youtu.be/pSTNhBlfV_s">Brian Brooks Explains Web3.0 to Congress</a>
  <li><a href = "https://advisor.morganstanley.com/the-elm-street-group/documents/field/e/el/elm-street-group/The%20Case%20for%20Cryptocurrency.pdf"> Morgan Stanley-Report </a></li>
