@@ -6,6 +6,9 @@
  <li><a href = https://www.blender.org/">Blender</a></li>
   <li><a href = "https://www.unrealengine.com/en-US/metahuman-creator">Meta Humans</a></li>
   <li><a href = "https://zivadynamics.com/">Real Time Faces</a></li>
+  <li><a href = "https://www.unrealengine.com/en-US/unreal-engine-5">Unreal Engine 5</a></li>
+  <li><a href = "https://developer.nvidia.com/nvidia-omniverse-platform">Omniverse</a></li>
+  <li><a href = "https://www.youtube.com/watch?v=0OK80eljWrs">Keanu Reeves and Carrie-Anne Moss on making The Matrix Awakens with Epic Games</a></li>
 </ul>
 
 ## Blockchain Structure
