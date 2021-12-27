@@ -3,7 +3,8 @@
 
 ## Meta Verse
 <ul>
- <li><a href = https://www.blender.org/">Blender</a></li>
+ <li><a href = "https://opensea.io/">OpenSea(NFTS)</a></li>
+ <li><a href = "https://www.blender.org/">Blender</a></li>
   <li><a href = "https://www.unrealengine.com/en-US/metahuman-creator">Meta Humans</a></li>
   <li><a href = "https://zivadynamics.com/">Real Time Faces</a></li>
   <li><a href = "https://www.unrealengine.com/en-US/unreal-engine-5">Unreal Engine 5</a></li>
