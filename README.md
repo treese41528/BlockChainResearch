@@ -20,9 +20,14 @@
 <ul>
   <li><a href = "https://www.hope.com/">BTC Maximalist (Store of Value)</a></li>
   <li><a href = "https://lokinet.org/">Loki Net (Privacy Browsing)</a></li>
-  </li><a href = "https://oxen.io/">OXEN Powers Loki Net</a></li>
+  <li><a href = "https://oxen.io/">OXEN Powers Loki Net</a></li>
  </ul>
 
+## Blockchain WhitePapers
+<ul>
+ <li><a href = "https://bitcoin.org/bitcoin.pdf">Bitcoin White Paper</a></li>
+ <li><a href = "https://ethereum.org/en/whitepaper/">Ethereum White Paper</a></li>
+ </ul>
 
 ## Blockchain Technology
 <ul>
